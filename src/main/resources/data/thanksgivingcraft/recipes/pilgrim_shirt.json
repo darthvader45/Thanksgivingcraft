@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LBL",
+    "LIL",
+    "LIL"
+  ],
+  "key": {
+    "I": {
+      "item":"minecraft:iron_nugget"
+    },
+    "B": {
+      "item":"minecraft:black_dye"
+    },
+    "L": {
+      "item":"minecraft:leather"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:pilgrim_shirt"
+  }
+
+
+}

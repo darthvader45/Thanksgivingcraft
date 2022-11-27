@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:cooked_thanksgiving_turkey"
+    },
+    {
+      "item": "thanksgivingcraft:carving_knife"
+    },
+    {
+      "item": "thanksgivingcraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:stuffed_turkey",
+    "count": 1
+  }
+}

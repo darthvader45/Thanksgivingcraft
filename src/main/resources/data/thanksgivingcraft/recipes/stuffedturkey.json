@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:seasoned_turkey"
+    },
+    {
+      "item": "thanksgivingcraft:stuffing"
+    },
+    {
+      "item": "thanksgivingcraft:butter"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:stuffed_turkey",
+    "count": 1
+  }
+}

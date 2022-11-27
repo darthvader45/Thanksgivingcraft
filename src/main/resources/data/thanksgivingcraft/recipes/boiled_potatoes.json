@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smoking",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:bucket_potatoes"
+    }
+
+  ],
+  "result": {
+    "item": "thanksgivingcraft:boiled_potatoes",
+    "experience": 1.0,
+    "cookingtime": 100
+  }
+}

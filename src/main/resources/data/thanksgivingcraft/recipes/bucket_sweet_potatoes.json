@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:sweet_potato"
+    },
+    {
+      "item": "thanksgivingcraft:sweet_potato"
+    },
+    {
+      "item": "thanksgivingcraft:sweet_potato"
+    },
+    {
+      "item": "thanksgivingcraft:sweet_potato"
+    },
+    {
+      "item": "thanksgivingcraft:sweet_potato"
+    },
+    {
+      "item": "thanksgivingcraft:sweet_potato"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:bucket_sweet_potatoes",
+    "count": 1
+  }
+}

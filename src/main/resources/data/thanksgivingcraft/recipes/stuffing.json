@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:cubed_bread"
+    },
+    {
+      "item": "thanksgivingcraft:chopped_pork"
+    },
+    {
+      "item": "thanksgivingcraft:butter"
+    },
+    {
+      "item": "thanksgivingcraft:salt_shaker"
+    },
+    {
+      "item": "thanksgivingcraft:pepper_shaker"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:stuffing",
+    "count": 1
+  }
+}

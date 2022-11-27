@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item":"minecraft:iron"
+    },
+    "S": {
+      "item":"thanksgivingcraft:table_salt"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:salt_shaker"
+  }
+
+
+}

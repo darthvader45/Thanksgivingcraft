@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:mortar_pestle"
+    },
+    {
+      "item": "thanksgivingcraft:rock_salt"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:table_salt",
+    "count": 1
+  }
+}

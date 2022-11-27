@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R B",
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "R": {
+      "item":"minecraft:red_dye"
+    },
+    "B": {
+      "item":"minecraft:black_dye"
+    },
+    "L": {
+      "item":"minecraft:leather"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:native_vest"
+  }
+
+
+}

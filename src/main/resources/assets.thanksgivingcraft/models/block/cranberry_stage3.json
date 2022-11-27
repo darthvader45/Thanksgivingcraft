@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures":
+  {
+    "crop": "thanksgivingcraft:block/cranberry_stage3"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:masher"
+    },
+    {
+      "item": "minecraft:boiled_potatoes"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:mashed_potatoes",
+    "count": 1
+  }
+}

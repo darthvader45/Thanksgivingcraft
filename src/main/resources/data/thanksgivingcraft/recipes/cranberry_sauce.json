@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smoking",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:cranberry_bowl"
+    }
+
+  ],
+  "result": {
+    "item": "thanksgivingcraft:cranberry_sauce",
+    "experience": 1.0,
+    "cookingtime": 100
+  }
+}

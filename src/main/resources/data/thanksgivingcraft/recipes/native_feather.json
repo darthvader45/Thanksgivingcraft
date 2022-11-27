@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "LLL"
+  ],
+  "key": {
+    "F": {
+      "item":"minecraft:feather"
+    },
+    "L": {
+      "item":"minecraft:leather"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:native_feather"
+  }
+
+
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WLR",
+    "L L",
+    "L L"
+  ],
+  "key": {
+    "R": {
+      "item":"minecraft:red_dye"
+    },
+    "W": {
+      "item":"minecraft:white_dye"
+    },
+    "L": {
+      "item":"minecraft:leather"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:native_pants"
+  }
+
+
+}

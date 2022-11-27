@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_forest",
+  "spawners": {
+   "type": "thanksgivingcraft:turkey",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:salt_shaker"
+    },
+    {
+      "item": "thanksgivingcraft:pepper_shaker"
+    },
+    {
+      "item": "thanksgivingcraft:cleaned_turkey"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:seasoned_turkey",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BLB",
+    "LGL"
+  ],
+  "key": {
+    "B":
+    {
+      "item": "minecraft:black_dye"
+    },
+    "G": {
+      "item":"minecraft:gold_ingot"
+    },
+    "L": {
+      "item":"minecraft:leather"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:pilgrim_hat"
+  }
+
+
+}

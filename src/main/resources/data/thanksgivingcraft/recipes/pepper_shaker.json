@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "IPI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item":"minecraft:iron"
+    },
+    "P": {
+      "item":"thanksgivingcraft:ground_pepper"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:pepper_shaker"
+  }
+
+
+}

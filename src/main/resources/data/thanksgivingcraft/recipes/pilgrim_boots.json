@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "L L",
+    "L L"
+  ],
+  "key": {
+    "B": {
+      "item":"minecraft:black_dye"
+    },
+    "L": {
+      "item":"minecraft:leather"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:pilgrim_boots"
+  }
+
+
+}

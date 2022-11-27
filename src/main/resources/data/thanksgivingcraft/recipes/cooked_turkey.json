@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smoking",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:stuffed_turkey"
+    }
+
+  ],
+  "result": {
+    "item": "thanksgivingcraft:cooked_turkey",
+    "experience": 3.0,
+    "cookingtime": 200
+  }
+}

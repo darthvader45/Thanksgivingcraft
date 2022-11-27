@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thanksgivingcraft:carving_knife"
+    },
+    {
+      "item": "thanksgivingcraft:raw_turkey"
+    }
+  ],
+  "result": {
+    "item": "thanksgivingcraft:cleaned_turkey",
+    "count": 1
+  }
+}

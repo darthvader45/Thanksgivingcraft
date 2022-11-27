@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C ",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item":"thanksgivingcraft:carving tools"
+    },
+    "S": {
+      "item":"minecraft:stone"
+    }
+  },
+  "result":
+  {
+    "item": "thanksgivingcraft:mortar_pestle"
+  }
+
+
+}
