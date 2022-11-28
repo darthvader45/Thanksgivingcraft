@@ -14,7 +14,7 @@ public class ModPlacedFeatures {
     public static final DeferredRegister<PlacedFeature> PLACED_FEATURES =
             DeferredRegister.create(Registry.PLACED_FEATURE_REGISTRY, Thanksgivingcraft.MOD_ID);
 
-    public static final RegistryObject<PlacedFeature> SALT_ORE_PLACED = PLACED_FEATURES.register("salt_ore_placed",
+    public static final RegistryObject<PlacedFeature> SALT_ORE_PLACED = PLACED_FEATURES.register("salt_ore",
             () -> new PlacedFeature(ModConfiguredFeatures.SALT_ORE.getHolder().get(),
                     commonOrePlacement(7,//Veins Per Chunk
                             HeightRangePlacement.triangle(VerticalAnchor.aboveBottom(-80), VerticalAnchor.aboveBottom(80)))));
