@@ -28,6 +28,7 @@ public class Thanksgivingcraft
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModEntityTypes.ENTITIES.register(modEventBus);
         ModConfiguredFeatures.register(modEventBus);
         ModPlacedFeatures.register(modEventBus);
 
